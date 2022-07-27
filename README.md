@@ -31,30 +31,30 @@ x===y ? console.log(true) : console.log(false);
 (React Docs - Thinking in React)
 
 1. What is the single responsibility principle and how does it apply to components?
---> Its mean that any object in OOP should do one thing(one specific function).
+--> It means that any object in OOP should do one thing(one specific function).
 2. What does it mean to build a ‘static’ version of your application?
---> That means you dont need the user to interact with your app.
+--> That means you don't need the user to interact with your app.
 3. Once you have a static application, what do you need to add?
 --> Need to use props not state.
 4. What are the three questions you can ask to determine if something is state?
 --> Is the value need/going to change or not, If yes so Its state.
 5. How can you identify where state needs to live?
---> After you drow the UI and deside the name and number of component you need, then deside witch one is props or state, so now you have a claer vision of your app, you can now diside where your state should live.  
+--> After you drow, the UI and decide the name and number of components you need, then decide which one is props or state, so now you have a clear vision of your app, you can now diside where your state should live.  
 
 (Higher-Order Functions)
 
 1. What is a “higher-order function”?
---> Its 1)tackes a function as a parameter or 2)returns a funtion
+--> Its 1)takes a function as a parameter or 2)returns a function
 2. Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
 function greaterThan(n) {
-  return m => m > n;
+  return m => m > n;
 }
 let greaterThan10 = greaterThan(10);
 console.log(greaterThan10(11));
 // → true
---> Its going to return true If the 11 > 10
-3. Explain how either map or reduce operates, with regards to higher-order functions.
---> Because its applies a given function to each element of a collection.
+--> It's going to return true If the 11 > 10
+3. Explain how either map or to reduce operates, with regards to higher-order functions.
+--> Because it applies a given function to each element of a collection.
 
 ## Things I want to know more about
 
