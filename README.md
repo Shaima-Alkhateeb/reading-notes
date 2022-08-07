@@ -22,7 +22,7 @@ This web site is a document and highlight my new knowledge.
 | Day 08 | [APIs](/day08/README.md) |
 | Day 09 | [Functional Programming](/day09/README.md) |
 | Day 10 | [In memory storage](/day10/README.md) |
-| Day 10 | [Mongo and Mongoose](/day11/README.md) |
+| Day 11 | [Mongo and Mongoose](/day11/README.md) |
 
 ## Things I want to know more about
 
