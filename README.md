@@ -23,9 +23,9 @@ This web site is a document and highlight my new knowledge.
 | Day 09 | [Functional Programming](/3O1/DAY09.md) |
 | Day 10 | [In memory storage](/3O1/DAY10.md) |
 | Day 11 | [Mongo and Mongoose](/3O1/DAY11.md) |
-| Day 12 | [Mongo and Mongoose](/3O1/DAY12.md) |
-| Day 13 | [Mongo and Mongoose](/3O1/DAY13.md) |
-| Day 14 | [Mongo and Mongoose](/3O1/DAY14.md) |
+| Day 12 | [CRUD](/3O1/DAY12.md) |
+| Day 13 | [More CRUD](/3O1/DAY13.md) |
+| Day 14 | [Diversity & Inclusion in the Tech Industry](/3O1/DAY14.md) |
 
 ## Things I want to know more about
 
