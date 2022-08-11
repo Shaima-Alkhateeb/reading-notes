@@ -12,17 +12,20 @@ This web site is a document and highlight my new knowledge.
 
 | Day | Description |
 | ----------- | ----------- |
-| Day 01 | [Introduction to React and Components](/day01/README.md) |
-| Day 02 | [State and Props](/day02/README.md) |
-| Day 03 | [Passing Functions as Props](/day03/README.md) |
-| Day 04 | [React and Forms](/day04/README.md) |
-| Day 05 | [Putting it all together](/day05/README.md) |
-| Day 06 | [NODE.JS](/day06/README.md) |
-| Day 07 | [REST](/day07/README.md) |
-| Day 08 | [APIs](/day08/README.md) |
-| Day 09 | [Functional Programming](/day09/README.md) |
-| Day 10 | [In memory storage](/day10/README.md) |
-| Day 11 | [Mongo and Mongoose](/day11/README.md) |
+| Day 01 | [Introduction to React and Components](/3O1/DAY01.md) |
+| Day 02 | [State and Props](/3O1/DAY02.md) |
+| Day 03 | [Passing Functions as Props](/3O1/DAY03.md) |
+| Day 04 | [React and Forms](/3O1/DAY04.md) |
+| Day 05 | [Putting it all together](/3O1/DAY05.md) |
+| Day 06 | [NODE.JS](/3O1/DAY06.md) |
+| Day 07 | [REST](/3O1/DAY07.md) |
+| Day 08 | [APIs](/3O1/DAY08.md) |
+| Day 09 | [Functional Programming](/3O1/DAY09.md) |
+| Day 10 | [In memory storage](/3O1/DAY10.md) |
+| Day 11 | [Mongo and Mongoose](/3O1/DAY11.md) |
+| Day 12 | [Mongo and Mongoose](/3O1/DAY12.md) |
+| Day 13 | [Mongo and Mongoose](/3O1/DAY13.md) |
+| Day 14 | [Mongo and Mongoose](/3O1/DAY14.md) |
 
 ## Things I want to know more about
 
