@@ -6,12 +6,14 @@
 --> returns an entirely new array with transformed elements and the same amount of data.
 2. If I want to loop through an array and display each value in JSX, how do I do that in React?
 
-`const numbers = [1, 2, 3, 4, 5];
+```
+const numbers = [1, 2, 3, 4, 5];
 const listItems = numbers.map((numbers) =>
  <li>{numbers}</li>
 );
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<ul>{listItems}</ul>);`
+root.render(<ul>{listItems}</ul>);
+```
 
 3. Each list item needs a unique key.
 4. What is the purpose of a key?
@@ -25,18 +27,23 @@ root.render(<ul>{listItems}</ul>);`
 --> Copying an array, Using Math functions, Using an array as arguments, and Adding to state in React.
 3. Give an example of using the spread operator to combine two arrays.
 
-`const numbers1 = [1, 2, 3, 4, 5];
+```
+const numbers1 = [1, 2, 3, 4, 5];
 const numbers2 = [6, 7, 8, 9, 10];
-const numbers3 = [...numbers1, ...numbers2];`
+const numbers3 = [...numbers1, ...numbers2];
+```
 
 4. Give an example of using the spread operator to add a new item to an array.
 
-`const numbers = [1, 2, 3, 4, 5];
-const add = [...numbers, 6];`
+```
+const numbers = [1, 2, 3, 4, 5];
+const add = [...numbers, 6];
+```
 
 5. Give an example of using the spread operator to combine two objects into one.
 
-`let person = {
+```
+let person = {
   firstName: 'Shaima',
   lastName: 'Alkhateeb',
 };
@@ -44,7 +51,8 @@ let job = {
   jobTitle: 'JavaScript Developer',
    location: 'Amman'
 };
-let employee  = {...person, ...job};`
+let employee  = {...person, ...job};
+```
 
 ## (How to Pass Functions Between Components)
 
