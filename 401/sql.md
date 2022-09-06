@@ -99,4 +99,4 @@ The DROP TABLE statement is used to drop an existing table in a database.
 DROP TABLE IF EXISTS mytable;
 ```
 
-![Introduction to SQL](/401/pic/sql.png)
+![Introduction to SQL](https://user-images.githubusercontent.com/97349122/188694838-dd7c261c-4773-4023-aa0f-c21f8eddcadd.png)
