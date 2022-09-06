@@ -30,3 +30,21 @@ This web site is a document and highlight my new knowledge.
 ## Things I want to know more about
 
 ## 4. **Code 401** - Advanced Software Development
+
+**Practice Assignments**
+
+- [Introduction to SQL](/401/sql.md)
+- [GIT Practice](/401/git.md)
+- [Bash Practice](/401/bash.md)
+- [Typing Practice](/401/typing.md)
+
+**Career Coaching Pre-work**
+
+- [Mindset](/401/careerCoaching/mindset.md)
+- [Professional Etiquette]()
+- [Career Coaching Status Report]()
+- [Update Your Resume]()
+
+| Day | Description |
+| ----------- | ----------- |
+| Day 01 | [Express](/401/day01.md) |
