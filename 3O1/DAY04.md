@@ -15,4 +15,6 @@
 --> Because it's short and simple compared with if else block.
 2. Rewrite the following statement using a ternary statement:
 
-`x===y ? console.log(true) : console.log(false);`
+```
+x===y ? console.log(true) : console.log(false);
+```
