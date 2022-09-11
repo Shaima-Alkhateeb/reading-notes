@@ -25,11 +25,32 @@ Also is an Object Relational Mapper for Node. js. Sequelize lets us connect to a
 
 Object-relational mapping (ORM) is a programming technique in which a metadata descriptor is used to connect object code to a relational database. Object code is written in object-oriented programming (OOP) languages such as Java or C#. ORM converts data between type systems that are unable to coexist within relational databases and OOP languages.
 
+How Does ORM Work? 
 
+The main postulate that characterizes ORM is that it encapsulates database interaction inside an object. One part of the object keeps the data and the second one knows how to deal with the data and transfers it to the relational database (this functionality is implemented inside the ORM engine).
+
+for example, rather than write this code 
+```
+book_list = new List();
+sql = "SELECT book FROM library WHERE author = 'Linus'";
+data = query(sql); // I over simplify ...
+while (row = data.next())
+{
+     book = new Book();
+     book.setAuthor(row.get('author');
+     book_list.add(book);
+}
+```
+it becomes like this with ORM
+```
+book_list = BookTable.query(author="Linus");
+```
+
+-----
 
 - Which 3 things had you heard about previously and now have better clarity on?
 
-I studied SQL in university, but we study it with pen and paper
+SQL, database and CRUD
 
 
 - Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
