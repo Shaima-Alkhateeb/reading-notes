@@ -48,3 +48,4 @@ This web site is a document and highlight my new knowledge.
 | Day | Description |
 | ----------- | ----------- |
 | Day 01 | [Express](/401/day01.md) |
+| Day 02 | [SQL database, ORM, Sequelize](/401/day02.md) |
