@@ -50,4 +50,4 @@ This web site is a document and highlight my new knowledge.
 | Day 01 | [Express](/401/day01.md) |
 | Day 02 | [SQL database, ORM, Sequelize](/401/day02.md) |
 | Day 09 | [Stack and Queues](/401/day09.md) |
-| Day 14 | [Stack and Queues](/401/day14.md) |
+| Day 14 | [Advanced State with Reducers](/401/day14.md) |
