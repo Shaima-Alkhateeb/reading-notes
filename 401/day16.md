@@ -10,7 +10,7 @@ In this case, the side effect runs only once after the **initial render** of the
 
 ### 2. Can useState() update more than one state variable at the same time?
 
-yes
+No
 
 
 ### 3. Is useState() synchronous?
