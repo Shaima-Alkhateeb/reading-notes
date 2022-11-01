@@ -51,4 +51,4 @@ This web site is a document and highlight my new knowledge.
 | Day 02 | [SQL database, ORM, Sequelize](/401/day02.md) |
 | Day 09 | [Stack and Queues](/401/day09.md) |
 | Day 16 | [Advanced State with Reducers](/401/day16.md) |
-| Day 22 | [Socket.io](/401/day22.md) |
+| Day 20 | [Socket.io](/401/day20.md) |
