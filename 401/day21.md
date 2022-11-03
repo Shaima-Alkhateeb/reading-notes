@@ -1,5 +1,16 @@
 # Hash Table
 
+### What is Hash Table ?
+
+It is an implementation of an associative array, a list of key-value pairs that allow you to retrieve a value via a key. 
+
+### Why to use it?
+because Hash tables have fast **search**, **insertion** and **delete** operations.
+
+### There are two main ways to implement a hash table/associative array in JavaScript.
+1. Using the Object Data Type
+2. Using a Map Object
+
 ### The Hash table data structure stores elements in key-value pairs where
 
 **Key**- unique integer that is used for indexing the values
