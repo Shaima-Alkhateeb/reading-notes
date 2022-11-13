@@ -53,3 +53,4 @@ This web site is a document and highlight my new knowledge.
 | Day 16 | [Advanced State with Reducers](/401/day16.md) |
 | Day 20 | [Socket.io](/401/day20.md) |
 | Day 21 | [Hash Table](/401/day21.md) |
+| Day 25 | [Chakra UI](/401/day25.md) |
