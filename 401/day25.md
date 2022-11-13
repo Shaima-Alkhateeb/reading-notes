@@ -11,6 +11,12 @@ Material UI is much better when it comes to performance and reliability. Chakra 
 
 ### How to use Chakra UI?
 
+To use Chakra UI in your project, run one of the following commands in your terminal:
+
+```
+npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+```
+
 1. Wrap your application with the ChakraProvider provided by @chakra-ui/react.
 ```
 import { ChakraProvider } from "@chakra-ui/react"
