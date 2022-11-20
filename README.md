@@ -54,3 +54,4 @@ This web site is a document and highlight my new knowledge.
 | Day 20 | [Socket.io](/401/day20.md) |
 | Day 21 | [Hash Table](/401/day21.md) |
 | Day 25 | [Chakra UI](/401/day25.md) |
+| Day 28 | [Redux ](/401/day28.md) |## <a name="402"></a>402. [Week 2: Data Structures](/402/week2.md)
